@@ -1,0 +1,79 @@
+/* custom.css */
+
+body {
+    
+    background-color: silver;
+        
+}
+
+.button {
+    height: 50px;
+    width: 70px;
+    display: inline-block;
+padding-top: 25px;
+    border: 1px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+#directionals {
+    
+    float: right;
+    margin: 1px;
+    
+}
+
+li a {
+    
+    color: black;
+    
+}
+  
+.content {
+    
+    border: 2px solid black;
+    width: 1000px;
+    
+}
+
+#sources {
+ 
+    font-size: 9px;
+    margin-top: 10px;
+}
+
+#sources ul {
+    
+ list-style: none;
+ margin-left: -25px;
+
+    
+}
+
+
+h1 {
+    
+    text-align: center;
+    margin-bottom: 40px;
+    
+    
+}
+
+#content1 {
+    display: block;
+}
+
+#content2 {
+    display: none;
+}
+
+#content3 {
+    display: none;
+}
+
+#content4 {
+    display: none;
+}
+#content5 {
+    display: none;
+}
